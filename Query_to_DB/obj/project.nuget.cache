@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHkda5VLXygcrOjHi+255KPMkxB+BuHShVQqQunUWAKam3NYyeIuo4xJtEKB1nC52/x9kXyadMUyZz/rsOrDUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gympie_Gympie\\Desktop\\Инфа\\Второй_семестр\\Сабер\\Практика\\Запрос_в_бд\\Query_to_DB\\Query_to_DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\sqlitepcl.raw\\0.9.2\\sqlitepcl.raw.0.9.2.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.8\\sqlitepclraw.bundle_green.2.1.8.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\sqlitepclraw.core\\2.1.8\\sqlitepclraw.core.2.1.8.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.8\\sqlitepclraw.lib.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.8\\sqlitepclraw.provider.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512",
+    "C:\\Users\\Gympie_Gympie\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"SQLitePCL.raw 0.9.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "SQLitePCL.raw",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
